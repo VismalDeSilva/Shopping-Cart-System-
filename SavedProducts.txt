@@ -1,0 +1,13 @@
+1500|tanky|45|100.0|36|white|clothing
+200|lk|5|698.0|s|red|clothing
+2000|shirt|6|450.0|15|green|clothing
+2000|Shirt|2|450.0|12|Red|clothing
+2002|Shirt|2|500.0|26|red|clothing
+2005|Shirt|6|350.0|15|White|clothing
+3000|ty|4|600.0|24|blue|clothing
+3000|Trouser|3|450.0|19|white|clothing
+3600|Trouser|4|800.0|14|Green|clothing
+500|tan|4|850.0|dell|12|electronic
+500|Laptop|1|50000.0|Dell|12|electronic
+5600|Phone|4|8000.0|Samsung|12|electronic
+600|Queety|8|120.0|Asus|8|electronic
